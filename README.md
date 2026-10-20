@@ -1,18 +1,9 @@
-# \# LeetCode SQL 50
+# LeetCode SQL 50
 
-# 
+Daily practice of the LeetCode SQL 50 study plan.
 
-# Daily practice of the LeetCode SQL 50 study plan.
+**Progress: 32/50**
 
-# 
-
-# \*\*Progress: 32/50\*\*
-
-# 
-
-# | Day | Problem | Difficulty | Topic |
-
-# |-----|---------|------------|-------|
-
-# | 19  | 610. Triangle Judgement | Easy | Advanced Select |
-
+| Day | Problem                  | Difficulty | Topic            |
+|-----|--------------------------|------------|------------------|
+| 19  | 610. Triangle Judgement  | Easy       | Advanced Select  |

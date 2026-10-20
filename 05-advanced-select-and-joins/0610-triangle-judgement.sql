@@ -2,8 +2,9 @@
 -- Link: https://leetcode.com/problems/triangle-judgement/
 -- Difficulty: Easy
 -- Topic: Advanced Select (IF / conditional logic)
--- Approach: Teen sides ek triangle banati hain jab kisi bhi do sides ka sum
---           teesri side se bada ho (x+y>z, y+z>x, z+x>y). IF() se Yes/No nikala.
+-- Approach: Three sides form a triangle when the sum of any two sides
+--           is greater than the third side (x+y>z, y+z>x, z+x>y).
+--           Used IF() to return Yes or No.
 -- Concept: IF(), AND conditions
 
 SELECT *,
