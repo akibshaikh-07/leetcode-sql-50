@@ -2,9 +2,10 @@
 
 Daily practice of the LeetCode SQL 50 study plan.
 
-**Progress: 33/50**
+**Progress: 34/50**
 
-| Day | Problem                  | Difficulty | Topic            |
-|-----|--------------------------|------------|------------------|
-| 19  | 610. Triangle Judgement  | Easy       | Advanced Select  |
-| 20  | 180. Consecutive Numbers | Medium     | Window Functions |
+| Day | Problem                    | Difficulty | Topic            |
+|-----|----------------------------|------------|------------------|
+| 19  | 610. Triangle Judgement    | Easy       | Advanced Select  |
+| 20  | 180. Consecutive Numbers   | Medium     | Window Functions |
+| 21  | 550. Game Play Analysis IV | Medium     | Subquery, Dates  |
