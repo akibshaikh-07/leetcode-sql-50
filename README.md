@@ -2,7 +2,7 @@
 
 Daily practice of the LeetCode SQL 50 study plan.
 
-**Progress: 36/50**
+**Progress: 37/50**
 
 | Day | Problem                                 | Difficulty | Topic            |
 |-----|-----------------------------------------|------------|------------------|
@@ -11,3 +11,4 @@ Daily practice of the LeetCode SQL 50 study plan.
 | 21  | 550. Game Play Analysis IV              | Medium     | Subquery, Dates  |
 | 22  | 1070. Product Sales Analysis III        | Medium     | Subquery         |
 | 23  | 1045. Customers Who Bought All Products | Medium     | Subquery, HAVING |
+| 24  | 1164. Product Price at a Given Date     | Medium     | Subquery, UNION  |
