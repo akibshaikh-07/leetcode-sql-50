@@ -2,7 +2,7 @@
 
 Daily practice of the LeetCode SQL 50 study plan.
 
-**Progress: 38/50**
+**Progress: 39/50**
 
 | Day | Problem                                 | Difficulty | Topic            |
 |-----|-----------------------------------------|------------|------------------|
@@ -13,3 +13,4 @@ Daily practice of the LeetCode SQL 50 study plan.
 | 23  | 1045. Customers Who Bought All Products | Medium     | Subquery, HAVING |
 | 24  | 1164. Product Price at a Given Date     | Medium     | Subquery, UNION  |
 | 25  | 1204. Last Person to Fit in the Bus     | Medium     | Window Functions |
+| 26  | 1907. Count Salary Categories           | Medium     | UNION, COUNT     |
