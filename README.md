@@ -2,7 +2,7 @@
 
 Daily practice of the LeetCode SQL 50 study plan.
 
-**Progress: 40/50**
+**Progress: 41/50**
 
 | Day | Problem                                 | Difficulty | Topic            |
 |-----|-----------------------------------------|------------|------------------|
@@ -15,3 +15,4 @@ Daily practice of the LeetCode SQL 50 study plan.
 | 25  | 1204. Last Person to Fit in the Bus     | Medium     | Window Functions |
 | 26  | 1907. Count Salary Categories           | Medium     | UNION, COUNT     |
 | 27  | 626. Exchange Seats                     | Medium     | CASE WHEN        |
+| 28  | 1341. Movie Rating                      | Medium     | UNION ALL, JOIN  |
