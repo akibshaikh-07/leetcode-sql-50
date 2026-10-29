@@ -2,7 +2,7 @@
 
 Daily practice of the LeetCode SQL 50 study plan.
 
-**Progress: 41/50**
+**Progress: 42/50**
 
 | Day | Problem                                 | Difficulty | Topic            |
 |-----|-----------------------------------------|------------|------------------|
@@ -16,3 +16,4 @@ Daily practice of the LeetCode SQL 50 study plan.
 | 26  | 1907. Count Salary Categories           | Medium     | UNION, COUNT     |
 | 27  | 626. Exchange Seats                     | Medium     | CASE WHEN        |
 | 28  | 1341. Movie Rating                      | Medium     | UNION ALL, JOIN  |
+| 29  | 1321. Restaurant Growth                 | Medium     | Window Functions |
