@@ -2,7 +2,7 @@
 
 Daily practice of the LeetCode SQL 50 study plan.
 
-**Progress: 42/50**
+**Progress: 43/50**
 
 | Day | Problem                                 | Difficulty | Topic            |
 |-----|-----------------------------------------|------------|------------------|
@@ -17,3 +17,4 @@ Daily practice of the LeetCode SQL 50 study plan.
 | 27  | 626. Exchange Seats                     | Medium     | CASE WHEN        |
 | 28  | 1341. Movie Rating                      | Medium     | UNION ALL, JOIN  |
 | 29  | 1321. Restaurant Growth                 | Medium     | Window Functions |
+| 30  | 602. Friend Requests II                 | Medium     | CTE, UNION ALL   |
