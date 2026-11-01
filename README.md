@@ -2,7 +2,7 @@
 
 Daily practice of the LeetCode SQL 50 study plan.
 
-**Progress: 44/50**
+**Progress: 45/50**
 
 | Day | Problem                                 | Difficulty | Topic            |
 |-----|-----------------------------------------|------------|------------------|
@@ -19,3 +19,4 @@ Daily practice of the LeetCode SQL 50 study plan.
 | 29  | 1321. Restaurant Growth                 | Medium     | Window Functions |
 | 30  | 602. Friend Requests II                 | Medium     | CTE, UNION ALL   |
 | 31  | 585. Investments in 2016                | Medium     | Subquery, HAVING |
+| 32  | 1527. Patients With a Condition         | Easy       | LIKE, Strings    |
