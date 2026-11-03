@@ -2,7 +2,7 @@
 
 Daily practice of the LeetCode SQL 50 study plan.
 
-**Progress: 46/50**
+**Progress: 47/50**
 
 | Day | Problem                                 | Difficulty | Topic            |
 |-----|-----------------------------------------|------------|------------------|
@@ -21,3 +21,4 @@ Daily practice of the LeetCode SQL 50 study plan.
 | 31  | 585. Investments in 2016                | Medium     | Subquery, HAVING |
 | 32  | 1527. Patients With a Condition         | Easy       | LIKE, Strings    |
 | 33  | 196. Delete Duplicate Emails            | Easy       | CTE, ROW_NUMBER  |
+| 34  | 176. Second Highest Salary              | Medium     | DENSE_RANK, CTE  |
