@@ -2,7 +2,7 @@
 
 Daily practice of the LeetCode SQL 50 study plan.
 
-**Progress: 47/50**
+**Progress: 48/50**
 
 | Day | Problem                                 | Difficulty | Topic            |
 |-----|-----------------------------------------|------------|------------------|
@@ -22,3 +22,4 @@ Daily practice of the LeetCode SQL 50 study plan.
 | 32  | 1527. Patients With a Condition         | Easy       | LIKE, Strings    |
 | 33  | 196. Delete Duplicate Emails            | Easy       | CTE, ROW_NUMBER  |
 | 34  | 176. Second Highest Salary              | Medium     | DENSE_RANK, CTE  |
+| 35  | 1484. Group Sold Products By The Date   | Easy       | GROUP_CONCAT     |
